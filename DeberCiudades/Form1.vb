@@ -4,7 +4,6 @@
         ListBox1.Items.Add("PROVINCIA: " & TextBox1.Text)
         ListBox1.Items.Add("CIUDAD: " & TextBox2.Text)
         ListBox1.Items.Add("POBLACION: " & TextBox3.Text)
-        ListBox1.Items.Add("*******************************")
         TextBox4.Text = TextBox1.Text
         TextBox5.Text = TextBox2.Text
         TextBox6.Text = TextBox3.Text
